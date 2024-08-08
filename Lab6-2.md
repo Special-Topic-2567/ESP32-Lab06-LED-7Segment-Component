@@ -116,7 +116,7 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+### ลิ้งวิดีโอ https://drive.google.com/file/d/1blmBImeiVtfBr0er9C-WX7CRMGGKbj3-/view?usp=sharing
 
 3.2 แก้ไข  code  ใน main.cpp
 
@@ -140,7 +140,7 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+### ลิ้งวิดีโอ https://drive.google.com/file/d/1q0zYb2DQKmCHlpOI-0p7svGn91aX_mU8/view?usp=sharing
 
 3.3 แก้ไข  code  ใน main.cpp
 
@@ -168,4 +168,4 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+### ลิ้งวิดีโอ https://drive.google.com/file/d/1R3rj8ZoBsOj6hE3qEEasCpEEiP_2I4NW/view?usp=sharing
