@@ -54,6 +54,7 @@ public:
 };
 ```
 
+
 2.2 เพิ่ม function ใน `SevenSegment.cpp`
 
 ```cpp
@@ -91,7 +92,6 @@ void SevenSegment::DisplayBlank()
     seg_g.OFF();
 }
 ```
-
 ## 3. ทดสอบโปรแกรมใน main.cpp
 
 3.1 แก้ไข  code  ใน main.cpp
@@ -116,7 +116,7 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+https://drive.google.com/file/d/1GY5mITl5Kyferw5cQQtMG8OeXAsrBTGs/view?usp=drivesdk
 
 3.2 แก้ไข  code  ใน main.cpp
 
@@ -140,7 +140,7 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+https://drive.google.com/file/d/1tAz0FOx_K1qTRtfarOvc7wSBUNO67JzB/view?usp=drivesdk
 
 3.3 แก้ไข  code  ใน main.cpp
 
@@ -168,4 +168,4 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+https://drive.google.com/file/d/18jo_qYKH8WbwYzNB-DA5Hdxu4K7-uDhQ/view?usp=drivesdk
