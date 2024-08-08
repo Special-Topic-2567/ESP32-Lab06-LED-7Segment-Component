@@ -117,6 +117,10 @@ extern "C" void app_main(void)
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
 
+ผลการทดลอง : ไฟจะติดเริ่มจาก a b c d e f g ตามลำดับ แต่จะติดแค่ sevensegment หลัก10
+
+link : https://drive.google.com/file/d/1bXKOCf9LokDyNCdSSEmVjIgqaB_gbXvh/view?usp=drivesdk 
+
 
 3.2 แก้ไข  code  ใน main.cpp
 
@@ -141,6 +145,9 @@ extern "C" void app_main(void)
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
 
+ผลการทดลอง : ไฟจะติดเริ่มจาก a b c d e f g ตามลำดับ แต่จะติดแค่ sevensegment หลักหน่วย
+
+link : https://drive.google.com/file/d/1_BJGCW2S3Hm0gmpPh74CTHQJ4qtWhlRU/view?usp=drivesdk 
 
 3.3 แก้ไข  code  ใน main.cpp
 
@@ -168,4 +175,8 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
+
+ผลการทดลอง : sevensegmentทั้ง 2 หลัก จะติดพร้อมกัน ไฟจะติดเริ่มจาก a b c d e f g ตามลำดับ 
+
+link : https://drive.google.com/file/d/1egO0DesG45oqiwuN5bYZA5AU9XCyBPUZ/view?usp=drivesdk
 
