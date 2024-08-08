@@ -114,9 +114,7 @@ extern "C" void app_main(void)
     } 
 }
 ```
-
-สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+## https://drive.google.com/file/d/1h2NPT_hotoFd7s5_oiMMoeGMvuL8B_vb/view?usp=drivesdk
 
 3.2 แก้ไข  code  ใน main.cpp
 
@@ -138,8 +136,7 @@ extern "C" void app_main(void)
     } 
 }
 ```
-
-สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
+## https://drive.google.com/file/d/1GMHt5C4qxZuMuTZjL8WzIL7NSEio3kf4/view?usp=drivesdk
 
 
 3.3 แก้ไข  code  ใน main.cpp
@@ -167,5 +164,5 @@ extern "C" void app_main(void)
 }
 ```
 
-สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
+## https://drive.google.com/file/d/17o6OvmVe2eC8ykSc4jVqCa3aGl8uyz4b/view?usp=drivesdk
 
