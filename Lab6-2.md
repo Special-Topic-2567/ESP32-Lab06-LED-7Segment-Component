@@ -116,6 +116,8 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
+## ไฟขึ้นด้านซ้ายอย่างเดียวเรียงจาก a ไป f
+### https://drive.google.com/file/d/1frl0KnP20_bOfIoOIoJiEISeG8Z6BAO8/view?usp=sharing
 
 
 3.2 แก้ไข  code  ใน main.cpp
@@ -140,7 +142,8 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+## ไฟขึ้นด้านขวาอย่างเดียวเรียงจาก a ไป f
+### https://drive.google.com/file/d/1QLjMwnqv6xRPntw_V24U8_sIQlAsqBFl/view?usp=sharing
 
 3.3 แก้ไข  code  ใน main.cpp
 
@@ -168,4 +171,5 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+## ## ไฟขึ้นทั้งสองข้างเรียงจาก a ไป f
+### https://drive.google.com/file/d/1U1xRxh1EAvl-wRyKCDjCHfxhIOzBna_5/view?usp=sharing
