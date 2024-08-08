@@ -117,6 +117,9 @@ extern "C" void app_main(void)
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
 
+แสดงเลขหนักสิบ
+https://drive.google.com/file/d/1JHppmBGIswIE1j9BmZIV0bex0zVpCKFt/view?usp=sharing
+
 
 3.2 แก้ไข  code  ใน main.cpp
 
@@ -140,6 +143,9 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
+
+เเสดงเลขหลักหน่วย
+https://drive.google.com/file/d/1-kpUEiemIbWL0QgsvcWh6P2iNnDVCRHW/view?usp=sharing
 
 
 3.3 แก้ไข  code  ใน main.cpp
@@ -168,4 +174,6 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
+เเสดงเลข2หลักพ้อมกัน
+https://drive.google.com/file/d/1Vtv2ajtxgpWWNjFV8IIbvApWoMl1EUSL/view?usp=sharing
 
