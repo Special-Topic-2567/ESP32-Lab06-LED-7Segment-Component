@@ -117,10 +117,7 @@ extern "C" void app_main(void)
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
 
-
-Uploading 455358827_8013209282129912_8672072021905530211_n.mp4…
-
-
+https://youtube.com/shorts/9828Ms9qGes?feature=share
 
 3.2 แก้ไข  code  ใน main.cpp
 
