@@ -116,6 +116,7 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
+![415cd94c-2b4b-4432-ba33-fd00a2199be2](https://github.com/user-attachments/assets/686181f9-3de0-44a9-8af5-25f3591f693f)
 
 
 3.2 แก้ไข  code  ใน main.cpp
@@ -138,6 +139,7 @@ extern "C" void app_main(void)
     } 
 }
 ```
+![7267e820-e292-4a70-a0f0-e2edbc24953c](https://github.com/user-attachments/assets/5b70ff9f-1960-4c43-abfc-4bfeb5a292c3)
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
 
@@ -165,7 +167,8 @@ extern "C" void app_main(void)
         vTaskDelay(500/portTICK_PERIOD_MS);
     } 
 }
-```
+```![a20fca0d-930b-4c7d-ae8b-5d563cada500](https://github.com/user-attachments/assets/65d505e5-2a27-4267-bd09-8e581ddc4bd2)
+
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
 
