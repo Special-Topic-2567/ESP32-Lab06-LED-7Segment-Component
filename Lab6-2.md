@@ -141,7 +141,7 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+https://youtube.com/shorts/qiQfamuls5s?feature=share
 
 3.3 แก้ไข  code  ใน main.cpp
 
