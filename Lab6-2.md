@@ -170,3 +170,4 @@ extern "C" void app_main(void)
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
 
+https://youtube.com/shorts/qokI3IwDU20?feature=share
