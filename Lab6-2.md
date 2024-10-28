@@ -116,7 +116,8 @@ extern "C" void app_main(void)
 ```
 
 สังเกตุและบันทึกผลการทดลอง (ส่ง link วิดิโอ)
-
+7segment ด้านซ้ายสว่างแค่ตัวเดียวโดยไฟติดเรียงจาก a ไป f
+(https://drive.google.com/file/d/1QocNSrMLExfyKFy0UeQrYd5llRNrmNRH/view?usp=sharing)
 
 3.2 แก้ไข  code  ใน main.cpp
 
@@ -139,8 +140,9 @@ extern "C" void app_main(void)
 }
 ```
 
-สังเกตุและบันทึกผลการทดลอง (https://drive.google.com/file/d/1QocNSrMLExfyKFy0UeQrYd5llRNrmNRH/view?usp=sharing)
-
+สังเกตุและบันทึกผลการทดลอง 
+7segment ด้านขวาสว่างแค่ตัวเดียวโดยไฟติดเรียงจาก a ไป f
+https://drive.google.com/file/d/1V-Rm5Knj5oze_VuAhxJzV8iQ2Dhi7Qxm/view?usp=sharing
 
 3.3 แก้ไข  code  ใน main.cpp
 
@@ -167,5 +169,7 @@ extern "C" void app_main(void)
 }
 ```
 
-สังเกตุและบันทึกผลการทดลอง (https://drive.google.com/file/d/1o0RR6FnOtiavbdGbDIR1hpCHc4ypnh-7/view?usp=sharing)
+สังเกตุและบันทึกผลการทดลอง 
+7segment สว่างทั้ง 2 ตัวโดยไฟติดเรียงจาก a ไป f
+(https://drive.google.com/file/d/1o0RR6FnOtiavbdGbDIR1hpCHc4ypnh-7/view?usp=sharing)
 
