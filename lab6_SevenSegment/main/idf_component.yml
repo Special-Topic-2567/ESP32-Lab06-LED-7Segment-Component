@@ -1,0 +1,4 @@
+dependencies:
+  LED:
+    git: https://github.com/65030034/LED_Test.git
+    path: components/LED
